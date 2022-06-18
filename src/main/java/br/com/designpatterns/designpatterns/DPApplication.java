@@ -3,7 +3,7 @@ package br.com.designpatterns.designpatterns;
 import br.com.designpatterns.designpatterns.termometro.AdaptadorFarenheitParaCelsiusObjectAdapter;
 import br.com.designpatterns.designpatterns.termometro.MedidorFarenheit;
 
-public class DesignpatternsApplication {
+public class DPApplication {
 
 	public static void main(String[] args) {
 		//Cria e instancia o o termômetro no exterior
